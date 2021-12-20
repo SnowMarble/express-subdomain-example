@@ -1,0 +1,20 @@
+{
+  "name": "express-subdomain-example",
+  "version": "1.0.0",
+  "description": "express-subdomain example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-subdomain": "^1.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
