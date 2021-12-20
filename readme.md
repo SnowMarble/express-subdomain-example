@@ -41,3 +41,7 @@ You can now re-register your sub-domain. Of course, the number of subdomains is 
 ```js
 app.use(subdomain('api', api))
 ```
+
+## So.. how to wirte code?
+
+check out [index.js](https://github.com/kraccoon-dev/express-subdomain-example/blob/main/index.js)
